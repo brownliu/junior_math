@@ -22,11 +22,11 @@
 stroke="black" stroke-width="1" fill="none"/>
 	<line x1="50" y1="0" x2="50" y2="100" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
-	<line x1="45" y1="70" x2="70" y2="120" transform="translate(20,20)" stroke="black"
+	<line x1="50" y1="100" x2="25" y2="50" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
-	<line x1="95" y1="70" x2="70" y2="120" stroke="black"
+	<line x1="50" y1="100" x2="75" y2="50" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
-	<line x1="45" y1="70" x2="95" y2="70" stroke="black"
+	<line x1="25" y1="50" x2="75" y2="50" transform="translate(20,20)" stroke="black"
 stroke-width="1" stroke-dasharray="2,2"/>
 </svg>
 
@@ -52,12 +52,12 @@ D\. \\(2\sqrt{5}-2\\)
 	<text x="50" y="15">E</text>
 	<text x="10" y="95">F</text>
 	<text x="34" y="92">P</text>
-	<rect x="20" y="20" width="100" height="100" stroke="black" stroke-width="1" fill="none"/>
-	<line x1="50" y1="20" x2="20" y2="120" stroke="black"
+	<rect x="0" y="0" width="100" height="100" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="30" y1="0" x2="0" y2="100" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
-	<line x1="20" y1="90" x2="120" y2="120" stroke="black"
+	<line x1="0" y1="70" x2="100" y2="100" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
-	<line x1="20" y1="20" x2="28" y2="93" stroke="black"
+	<line x1="0" y1="0" x2="8" y2="72" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
 </svg>
 
@@ -77,10 +77,9 @@ stroke-width="1"/>
 	<text x="10" y="80">E</text>
 	<text x="80" y="10">F</text>
 	<text x="140" y="80">G</text>
-	<polygon points="80,20 20,80 80,140 140,80"
-stroke="black" stroke-width="1" fill="none"/>
-	<rect x="20" y="80" width="60" height="60" stroke="black" stroke-width="1" fill="none"/>
-	<line x1="20" y1="140" x2="80" y2="20" stroke="black"
+	<rect x="0" y="60" width="84" height="84" transform="rotate(-45, 20 80) translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<rect x="0" y="60" width="60" height="60" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="0" y1="120" x2="60" y2="0" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
 </svg>
 
@@ -92,9 +91,9 @@ stroke-width="1"/>
 	<text x="25" y="75">E</text>
 	<text x="80" y="10">F</text>
 	<text x="140" y="80">G</text>
-	<rect x="30" y="80" width="78" height="78" stroke="black" stroke-width="1" fill="none" transform="rotate(-40, 30 80)"/>
-	<rect x="20" y="80" width="60" height="60" stroke="black" stroke-width="1" fill="none"/>
-	<line x1="20" y1="140" x2="90" y2="30" stroke="black"
+	<rect x="10" y="60" width="78" height="78" stroke="black" stroke-width="1" fill="none" transform="rotate(-40, 30 80) translate(20,20)"/>
+	<rect x="0" y="60" width="60" height="60" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="0" y1="120" x2="70" y2="10" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
 </svg>
 
@@ -158,9 +157,8 @@ D\. \\(\sqrt{2}\\)
 	<text x="10" y="150">B</text>
 	<text x="120" y="150">C</text>
 	<text x="105" y="100">D</text>
-	<polygon points="70,20 20,140 120,140"
-stroke="black" stroke-width="1" fill="none"/>
-	<line x1="20" y1="140" x2="104" y2="100" stroke="black"
+	<polygon points="50,0 0,120 100,120" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="20" y1="140" x2="104" y2="100" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
 </svg>
 
