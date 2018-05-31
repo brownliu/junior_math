@@ -180,9 +180,9 @@ D\. \\(\sqrt{2}\\)
 stroke-width="1"/>
 </svg>
 
-8、如图 6，直角三角形 \\(ABC\\) 中，\\(\angle BAC=90^{\circ}\\)，\\(D\\) 在 \\(BC\\) 上，连接 \\(AD\\)，作 \\(BF\botAD\\) 分别交\\(AD\\) 于 \\(E\\)，\\(AC\\) 于 \\(F\\)。
+8、如图 6，直角三角形 \\(ABC\\) 中，\\(\angle BAC=90^{\circ}\\)，\\(D\\) 在 \\(BC\\) 上，连接 \\(AD\\)，作 \\(BF\bot AD\\) 分别交\\(AD\\) 于 \\(E\\)，\\(AC\\) 于 \\(F\\)。
 
-（1）如图6，若 \\(BD=BA\\)，求证 \\(\triangle ABE\equiv\triangle DBE\\)；
+（1）如图6，若 \\(BD=BA\\)，求证 \\(\triangle ABE\cong \triangle DBE\\)；
 
 （2）如图7，若 
 
