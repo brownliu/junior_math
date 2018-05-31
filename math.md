@@ -158,7 +158,7 @@ D\. \\(\sqrt{2}\\)
 	<text x="120" y="150">C</text>
 	<text x="105" y="100">D</text>
 	<polygon points="50,0 0,120 100,120" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
-	<line x1="20" y1="140" x2="104" y2="100" transform="translate(20,20)" stroke="black"
+	<line x1="0" y1="120" x2="84" y2="80" transform="translate(20,20)" stroke="black"
 stroke-width="1"/>
 </svg>
 
@@ -193,6 +193,19 @@ stroke-width="1"/>
 #### 5.2 视图
 
 ### 6 反比例函数
+
+#### 6.1 反比例函数
+
+#### 6.2 反比例函数的图像与性质
+
+2、如图 6-2-13 所示，\\(\triangle P_1OA_1, \triangle P_2A_1A_2, \triangle P_3A_2A_3,..., \triangle P_nA_{n-1}A_n\\) 都是等腰直角三角形，点 \\(P_1,P_2,P_3,...,P_n\\) 都在函数 \\(y=\frac{4}{x}(x>0)\\) 的图像上，斜边 \\(OA_1,A_1A_2,A_2A_3,...,A_{n-1}A_n\\) 都在 \\(x\\) 轴上.
+
+（1）求点 \\(A_1,A_2\\) 的坐标
+（2）猜想点 \\(A_n\\) 的坐标（直接写出结果即可）.
+
+
+
+#### 6.3 反比例函数的应用 
 
 
 
