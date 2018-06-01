@@ -180,11 +180,45 @@ D\. \\(\sqrt{2}\\)
 stroke-width="1"/>
 </svg>
 
+
+
 8、如图 6，直角三角形 \\(ABC\\) 中，\\(\angle BAC=90^{\circ}\\)，\\(D\\) 在 \\(BC\\) 上，连接 \\(AD\\)，作 \\(BF\bot AD\\) 分别交\\(AD\\) 于 \\(E\\)，\\(AC\\) 于 \\(F\\)。
 
 （1）如图6，若 \\(BD=BA\\)，求证 \\(\triangle ABE\cong \triangle DBE\\)；
 
-（2）如图7，若 
+（2）如图7，若 \\(BD=4DC\\)，取 \\(BA\\) 中点 \\(G\\)，连接 \\(CG\\) 交 \\(AD\\) 于 \\(M\\)，求证：1、\\(GM=2MC\\)；2、\\(AG^2=AF\cdot AC\\).
+
+<svg>
+	<text x="165" y="15">A</text>
+	<text x="10" y="135">B</text>
+	<text x="240" y="135">C</text>
+	<text x="195" y="135">D</text>
+	<text x="170" y="70">E</text>
+        <text x="205" y="65">F</text>
+	<polygon points="0,100 150,0 220,100" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="150" y1="0" x2="180" y2="100" transform="translate(20,20)" stroke="black"
+stroke-width="1"/>
+        <line x1="0" y1="100" x2="183" y2="47" transform="translate(20,20)" stroke="black"
+stroke-width="1"/>
+</svg>
+
+<svg>
+	<text x="165" y="15">A</text>
+	<text x="10" y="135">B</text>
+	<text x="270" y="135">C</text>
+	<text x="215" y="135">D</text>
+	<text x="170" y="53">E</text>
+        <text x="200" y="45">F</text>
+        <text x="80" y="70">G</text>
+        <text x="210" y="100">M</text>
+	<polygon points="0,100 150,0 250,100" transform="translate(20,20)" stroke="black" stroke-width="1" fill="none"/>
+	<line x1="150" y1="0" x2="200" y2="100" transform="translate(20,20)" stroke="black"
+stroke-width="1"/>
+        <line x1="250" y1="100" x2="75" y2="50" transform="translate(20,20)" stroke="black"
+stroke-width="1"/>
+        <line x1="0" y1="100" x2="177" y2="27" transform="translate(20,20)" stroke="black"
+stroke-width="1"/>
+</svg>
 
 #### 4.8 图形的位似
 
