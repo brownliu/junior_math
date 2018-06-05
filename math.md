@@ -296,6 +296,55 @@ stroke-width="1"/>
 
 #### 1.1 锐角三角形
 
+1、（1）如图 1-1-10 所示，在下列网格中，小正方形的边长均为 \\(1\\) ，点 \\(A,B,O\\) 都在格点上，则 \\(\angle AOB\\) 的正弦值是_________.
+
+（2）如图 1-1-11 所示，网格中的每个小正方形的边长都是 \\(1\\)，\\(\triangle ABC\\) 的每个顶点都在格点上，则 \\(\angle BAC\\) 的余弦值是__________.
+
+<svg width="260px" height="220px">
+		<text x="45" y="135">A</text>
+		<text x="145" y="155">B</text>
+		<text x="225" y="55">O</text>
+		<line x1="40" y1="120" x2="200" y2="40" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="120" y1="120" x2="200" y2="40" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="0" x2="240" y2="0" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="40" x2="240" y2="40" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+        <line x1="0" y1="80" x2="240" y2="80" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+        <line x1="0" y1="120" x2="240" y2="120" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+        <line x1="0" y1="160" x2="240" y2="160" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+        <line x1="0" y1="200" x2="240" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="0" x2="0" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="40" y1="0" x2="40" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="80" y1="0" x2="80" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="120" y1="0" x2="120" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="160" y1="0" x2="160" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="200" y1="0" x2="200" y2="200" transform="translate(20,20)" stroke="black"	stroke-width="1"/>
+		<line x1="240" y1="0" x2="240" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+</svg>
+
+<svg width="260px" height="220px">
+		<text x="45" y="215">A</text>
+		<text x="225" y="155">B</text>
+		<text x="125" y="55">C</text>
+		<line x1="40" y1="200" x2="120" y2="40" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="40" y1="200" x2="200" y2="120" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="120" y1="40" x2="200" y2="120" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="0" x2="240" y2="0" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="40" x2="240" y2="40" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+	    <line x1="0" y1="80" x2="240" y2="80" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+	    <line x1="0" y1="120" x2="240" y2="120" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+	    <line x1="0" y1="160" x2="240" y2="160" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+	    <line x1="0" y1="200" x2="240" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="0" y1="0" x2="0" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="40" y1="0" x2="40" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="80" y1="0" x2="80" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="120" y1="0" x2="120" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="160" y1="0" x2="160" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="200" y1="0" x2="200" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+		<line x1="240" y1="0" x2="240" y2="200" transform="translate(20,20)" stroke="black" stroke-width="1"/>
+</svg>
+
+
+
 #### 1.2 30度、45度、60度角的三角函数值
 
 #### 1.3 三角函数的计算
@@ -304,6 +353,8 @@ stroke-width="1"/>
 
 #### 1.5 三角函数的应用
 
+2、一条东西走向的高速公路上有两个加油站 \\(A,B\\)，在 \\(A\\) 的北偏东 \\(45^{\circ}\\) 方向还有一个加油站 \\(C\\)，\\(C\\) 到高速公路的距离是 \\(30\\) km，\\(B,C\\) 间的距离是 \\(60\\) km，想要经过 \\(C\\) 修一条笔直的公路与高速公路相交，使两路交叉口到 \\(B,C\\) 的距离相等，请求出交叉口 \\(P\\) 到加油站 \\(A\\) 的距离（结果保留根号）。
+
 #### 1.6 利用三角函数测高
 
 ### 2 二次函数
@@ -311,6 +362,16 @@ stroke-width="1"/>
 #### 2.1 二次函数
 
 #### 2.2 二次函数的图象与性质
+
+3、如图 2-2-22 所示的二次函数 \\(y=ax^2 +bx+c\\) 的图像中，刘浩同学观察得出下面 \\(4\\) 个信息：1）\\(abc>0\\)；2）\\(c>1\\)；3）\\(2a-b<0\\)；4）\\(a+b+c<0\\)。你认为其中错误的有（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;）
+
+A\. 4个
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+B\. 3个
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C\. 2个
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D\. 1个
 
 #### 2.3 确定二次函数的表达式
 
